@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "musicc-header": "/components/musiccHeader/musiccHeader",
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "j-skeleton": "/components/J-skeleton/J-skeleton"
+  }
+}
